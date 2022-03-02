@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to AliMoal webpage
 
-You can use the [editor on GitHub](https://github.com/AliMoal/AliMoal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! I'm Ali Moallem and really pleased to tell you about ME! \
+Here you and my information about educational, personal and work stuffs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work
+I'm glad to say that I'm working in [MahdaSystem](https://www.mahdasystem.com/) organization. \
+My skills are in programming in C/C++ languages for embedded systems such as ARM Microcontrollers like STM32, AVR, Arduino boards, ESP family and a little FPGA projects in both Verilog and VHDL languages.
+I also write some codes in Python language.
+You can see my open course C/C++ projects in [MahdaSystem](https://github.com/MahdaSystem) organization page.
 
-### Markdown
+## Education
+Briefly I have a bachelor's degree in Electrical engineering (Majoring in Electronic). About Master's degree, I'm currently studying Digital Electronic Systems at [Iran University of Science & Technology](http://www.iust.ac.ir/en). Who knows what will happen in future? I would literally like to get PHD anyway.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Personal
+Most of my personal information are about entertainments and hobbies!
+I'm really into watching Movies and TV shows, reading Books and Novels and playing Video Games. I'm a big fan of Harry Potter franchise, Marvel Cinematic Universe, The Lord of The Rings franchise, Game of thrones series and also Horror, Si-Fi and Thriller genres. At the end I have to say I'm really crazy about Astronomical topics for example observing the night sky and learning Astronomy or Astrology stuffs. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AliMoal/AliMoal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Support and Contact
+[Instagram](https://www.instagram.com/alimoall/) \
+[Telegram](https://www.t.me/AliMoallem1) \
+[Twitter](https://twitter.com/AliMoallem10) \
+\
+\
+HOPE TO BE USEFUL FOR EVERYONE 😁
