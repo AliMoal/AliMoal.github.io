@@ -20,6 +20,7 @@ I'm really into watching Movies and TV shows, reading Books and Novels and playi
 [Instagram](https://www.instagram.com/alimoall/) \
 [Telegram](https://www.t.me/AliMoallem1) \
 [Twitter](https://twitter.com/AliMoallem10) \
+[LinkedIn](https://www.linkedin.com/in/ali-moallem-55883619a/) \
 \
 \
 HOPE TO BE USEFUL FOR EVERYONE 😁
