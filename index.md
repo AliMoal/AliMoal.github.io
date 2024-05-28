@@ -1,4 +1,4 @@
-# Welcome to AliMoal webpage
+# Ali Moallem's Journey 
 
 Hi there! I'm **Seyed Ali Mousavi Moallem** (AKA. Ali Moallem), and really pleased to tell you about ME! \
 Here you and my information about educational, personal and work stuffs. 
@@ -17,7 +17,7 @@ Briefly, I have a bachelor's degree in Electrical engineering (Majoring in Elect
 Most of my personal information are about entertainments and hobbies!
 I'm really into watching Movies and TV shows, reading Books and Novels and playing Video Games. I'm a big fan of Harry Potter franchise, Marvel Cinematic Universe, The Lord of The Rings franchise, Game of thrones series and also Horror, Si-Fi and Thriller genres. At the end I have to say I'm really crazy about Astronomical topics for example observing the night sky and learning Astronomy or Astrology stuffs. 
 
-### Support and Contact
+## Support and Contact
 **Emails**: \
 General: alimoal@outlook.com \
 Educational: ali_mousavi@elec.iust.ac.ir 
