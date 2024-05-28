@@ -1,27 +1,35 @@
 # Welcome to AliMoal webpage
 
-Hi there! I'm Ali Moallem and really pleased to tell you about ME! \
-Here you and my information about educational, personal and work stuffs
+Hi there! I'm **Seyed Ali Mousavi Moallem** (AKA. Ali Moallem), and really pleased to tell you about ME! \
+Here you and my information about educational, personal and work stuffs. 
 
 ## Work
-I'm glad to say that I'm working in [MahdaSystem](https://www.mahdasystem.com/) organization. \
-My skills are in programming in C/C++ languages for embedded systems such as ARM Microcontrollers like STM32, AVR, Arduino boards, ESP family and a little FPGA projects in both Verilog and VHDL languages.
+I'm glad to say that I'm working at [Dolphin](https://dolphinconnect.tech/) ([IR](https://2lphin.com/)) and [MahdaSystem](https://www.mahdasystem.com/) organizations. \
+My skills in programming are Rust and C/C++ languages for embedded systems such as ARM Microcontrollers including ESP family, STM family, NRF family, AVR, Arduino boards and a little FPGA projects in both Verilog and VHDL languages.
 I also write some codes in Python language.
-You can see my open course C/C++ projects in [MahdaSystem](https://github.com/MahdaSystem) organization page.
+You can see my open course C/C++ projects in [MahdaSystem](https://github.com/MahdaSystem) organization's GitHub page. \
+To get my resume, please contact me.
 
 ## Education
-Briefly I have a bachelor's degree in Electrical engineering (Majoring in Electronic). About Master's degree, I'm currently studying Digital Electronic Systems at [Iran University of Science & Technology](http://www.iust.ac.ir/en). Who knows what will happen in future? I would literally like to get PHD anyway.
+Briefly, I have a bachelor's degree in Electrical engineering (Majoring in Electronic). About Master's degree, I'm currently studying Digital Electronic Systems at [Iran University of Science & Technology](http://www.iust.ac.ir/en). Who knows what will happen in future? I would literally like to get PHD anyway.
 
 ## Personal
 Most of my personal information are about entertainments and hobbies!
 I'm really into watching Movies and TV shows, reading Books and Novels and playing Video Games. I'm a big fan of Harry Potter franchise, Marvel Cinematic Universe, The Lord of The Rings franchise, Game of thrones series and also Horror, Si-Fi and Thriller genres. At the end I have to say I'm really crazy about Astronomical topics for example observing the night sky and learning Astronomy or Astrology stuffs. 
 
 ### Support and Contact
+**Emails**: \
+General: alimoal@outlook.com \
+Educational: ali_mousavi@elec.iust.ac.ir 
+
+**Socials**: \
 [Instagram](https://www.instagram.com/alimoall/) \
 [Telegram](https://www.t.me/AliMoallem1) \
-[Twitter](https://twitter.com/AliMoallem10) \
+[X](https://x.com/AliMoallem10) \
 [LinkedIn](https://www.linkedin.com/in/ali-moallem-55883619a/) \
 [StackOverflow](https://stackoverflow.com/users/13628566/alimo) \
+[ORCID](https://orcid.org/0009-0008-2235-0737)\
+[ResearchGate](https://www.researchgate.net/profile/Seyed-Ali-Mousavi-Moallem) \
 \
 [BuyMeACoffee](https://www.buymeacoffee.com/alimo) ☕ \
 \
